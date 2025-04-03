@@ -8,3 +8,4 @@ while(i<=n)
 i++;
 }
 console.log(i);
+
