@@ -11,3 +11,4 @@ for (let i = 1; i <= 50; i++) {
 
 // Print numbers from 1 to 50.
 // If the number is divisible by 7, print "Lucky Number" instead.
+
