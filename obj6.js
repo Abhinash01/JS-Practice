@@ -4,4 +4,7 @@ const student = {
     course: "BCA"
 };
 
+student.college = "Utkal University";
+
 console.log(student);
+
