@@ -5,6 +5,8 @@ const student = {
 };
 
 student.college = "Utkal University";
+student.age = 23;
+
 
 console.log(student);
 
