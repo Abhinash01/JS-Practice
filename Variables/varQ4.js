@@ -4,4 +4,4 @@ console.log(a);
 let a;
 
 
-//Output = Cannot access 'a' before initialization
+//Output = Cannot access 'a' before initialization. 
