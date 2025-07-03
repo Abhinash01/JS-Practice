@@ -1,0 +1,711 @@
+[33mcommit 3fe44a27ceab6a2b646f37de0f83a3700e671f35[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+AuthorDate: Thu Jul 3 19:23:22 2025 +0000
+Commit:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+CommitDate: Thu Jul 3 19:23:22 2025 +0000
+
+    Try accessing a let variable before declaring it — what error do you see?
+
+[33mcommit 248d3078ca770ab75474702cfcc5d2decee6b3da[m
+Author:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+AuthorDate: Thu Jul 3 19:23:16 2025 +0000
+Commit:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+CommitDate: Thu Jul 3 19:23:16 2025 +0000
+
+    Guess the output
+
+[33mcommit 49faa812be1728c0ace2a0a009b8d00e03a0cda8[m
+Author:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+AuthorDate: Thu Jul 3 19:23:08 2025 +0000
+Commit:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+CommitDate: Thu Jul 3 19:23:08 2025 +0000
+
+    Try this and observe the result
+
+[33mcommit b9e8382996c85597961070092cab9fc839a9aa00[m
+Author:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+AuthorDate: Thu Jul 3 19:16:30 2025 +0000
+Commit:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+CommitDate: Thu Jul 3 19:16:30 2025 +0000
+
+    Declare your name and city using const , and your age using let .
+
+[33mcommit 938245a27b9839e0f689b55cc6e721c28af38976[m
+Author:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+AuthorDate: Thu Jul 3 19:16:09 2025 +0000
+Commit:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+CommitDate: Thu Jul 3 19:16:09 2025 +0000
+
+    Declare your name and city using const , and your age using let .
+
+[33mcommit b4ce3a7b3b1d02da7ca02945572690c663471d79[m
+Author:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+AuthorDate: Thu Jul 3 19:13:33 2025 +0000
+Commit:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+CommitDate: Thu Jul 3 19:13:33 2025 +0000
+
+    Declare your name and city using const , and your age using let .
+
+[33mcommit 1780402281a09f1c37e68f48423d0060b54c554e[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue May 13 22:53:44 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue May 13 22:53:44 2025 +0530
+
+    Check for Property in Object Safely
+
+[33mcommit f33fde27b6b787ac6811d435b481a329794fc021[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue May 13 22:52:43 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue May 13 22:52:43 2025 +0530
+
+    Merge Two Objects
+
+[33mcommit 73869a987a7502116afd445085a8122655b1455d[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri May 9 23:31:55 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri May 9 23:31:55 2025 +0530
+
+    Sum Object Values
+
+[33mcommit e68c2ca5065f0ea1d6baaac8e1747a53783661b5[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri May 9 23:31:35 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri May 9 23:31:35 2025 +0530
+
+    Iterate Over Object
+
+[33mcommit 19f3c929e928309c75946e9144b4ac6e107949e0[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri May 9 23:31:01 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri May 9 23:31:01 2025 +0530
+
+    Deep Clone Object
+
+[33mcommit 0d7af2dd723e8a8838a3cb61c05f712293931d3d[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri May 9 23:30:39 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri May 9 23:30:39 2025 +0530
+
+    Constructor Function with Method
+
+[33mcommit feca4365a38cfde3e193b04e8e865a61889fe9fa[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu May 8 23:17:06 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu May 8 23:17:06 2025 +0530
+
+    Check if Object is Empty
+
+[33mcommit fc07d28486c3b5a3cb216bb3a9897b9b2b4f8fbd[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu May 8 23:16:42 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu May 8 23:16:42 2025 +0530
+
+    Object with Method
+
+[33mcommit 1d482384e40436a30a2cf77b3b1eec16d6324f37[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu May 8 23:15:37 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu May 8 23:15:37 2025 +0530
+
+    Delete Property and Check Existence
+
+[33mcommit ed1eb03eb8226b792d505e1f99981919f1a727c6[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu May 8 23:15:09 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu May 8 23:15:09 2025 +0530
+
+    Count Properties in an Object
+
+[33mcommit 0dfe7209e0a5100f7423e9febc9c7e88b6a6efb1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu May 8 23:14:41 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu May 8 23:14:41 2025 +0530
+
+    Create and Update Object
+
+[33mcommit dd1d12784ee5d656f088c3ae247dc177a848b1a6[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Sun Apr 27 23:07:53 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Sun Apr 27 23:07:53 2025 +0530
+
+    add a function (method) inside the student object
+
+[33mcommit 17298a41880748a0e91ddc1ba8da259b355895fd[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Sun Apr 27 23:06:16 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Sun Apr 27 23:06:16 2025 +0530
+
+    update the age property of the student
+
+[33mcommit bba47804fba3bfa6f396851108c8227fe7328cec[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Sun Apr 27 23:05:48 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Sun Apr 27 23:05:48 2025 +0530
+
+    add a new property like college
+
+[33mcommit 8169df2a097c75636ec68ed52036fd335d5bf39d[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Sun Apr 27 23:05:04 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Sun Apr 27 23:05:04 2025 +0530
+
+    object called "student" with properties: name, age, and course
+
+[33mcommit 7f98e4b6655c0dc8d4479dec6294651bed93651e[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 25 23:46:44 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 25 23:46:44 2025 +0530
+
+    Function That Display Object
+
+[33mcommit 571a7d3db4fe9314ce02ec3a61b5287e86b5ca23[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 25 23:44:53 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 25 23:44:53 2025 +0530
+
+    Update values and add new key
+
+[33mcommit 10f4201f9272cc84aa821ddeea78d07e8ea8c2d1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 25 23:43:20 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 25 23:43:20 2025 +0530
+
+    Student Result Object
+
+[33mcommit f4bbf83acae91bbaf036fa28c4a36256f8588a85[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 25 23:37:23 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 25 23:37:23 2025 +0530
+
+    Loop through the object and print each subject and score
+
+[33mcommit 267b06a06c7275d91b532ee127ddbc6819d8507e[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 25 23:36:30 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 25 23:36:30 2025 +0530
+
+    Basic Object Access
+
+[33mcommit 9ada76dcafb5e0371c18c75cffd14d752493cac1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:22:14 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:22:14 2025 +0530
+
+    Emoji Weather Forecaster
+
+[33mcommit 8bc9f94150d58224f2fc03d20bdaa68c63fda7b2[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:20:10 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:20:10 2025 +0530
+
+    Currency Converter
+
+[33mcommit abf2416a9c9f74a48816c24baed8ce63a4e6b5da[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:18:39 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:18:39 2025 +0530
+
+    Grade Calculator
+
+[33mcommit 8120978df765682afdfac8fe6aaee813a798ff83[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:17:52 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:17:52 2025 +0530
+
+    BMI Calculator
+
+[33mcommit ac8275491b261d6ce59db76411769cd4632f03ae[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:16:39 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:16:39 2025 +0530
+
+    Random Emoji Generator
+
+[33mcommit d212aeb8dc0a40dcc8a264383536a5549f6e8e99[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:16:07 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:16:07 2025 +0530
+
+    Login System Simulator
+
+[33mcommit fb27921140521235e1c18fc8af94a38980e90d6c[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:15:25 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:15:25 2025 +0530
+
+    Check Vowel or Consonant
+
+[33mcommit ca0f202327fed257b936aee840490a4cde20f388[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:14:19 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:14:19 2025 +0530
+
+    Simple Calculator
+
+[33mcommit 94704c3df9426d6a2ab04860046baa6d32b80244[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:13:50 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:13:50 2025 +0530
+
+    Countdown Timer
+
+[33mcommit 88635a1075e9119be835f0bb0c91aed6ca43259a[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:12:45 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:12:45 2025 +0530
+
+    Number Guessing Game
+
+[33mcommit d4cc0d6576f37839c6704422175f5fde4ecce5b9[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 24 23:11:53 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 24 23:11:53 2025 +0530
+
+    Traffic Light Simulator
+
+[33mcommit c643456be9ba0053b39dd18cb3c3e80d0f8447c3[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:42:11 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:42:11 2025 +0530
+
+    Divisibility Check from 1 to 40
+
+[33mcommit 2aa6eea9712ecb27192a63fec6ce87052b96c1f7[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:40:37 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:40:37 2025 +0530
+
+    1 to 25 and print the range label based on the number
+
+[33mcommit 5fabb80c0817b5ff8eb32a181c09603415a796f3[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:26:28 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:26:28 2025 +0530
+
+    code to loop from 1 to 30, and print "Special Odd" if the number is odd and divisible by 3, else just print the number
+
+[33mcommit 2ca211baf87a8fb2c8a680395419c7db118394b7[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:25:20 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:25:20 2025 +0530
+
+    print numbers from 1 to 50, and if a number is divisible by 7, it prints "Lucky Number"
+
+[33mcommit 008c3b578258383712d40c9d0b08dbf1bee08ecc[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:24:23 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:24:23 2025 +0530
+
+    print numbers from 1 to 50, and if a number is divisible by 7, it prints "Lucky Number"
+
+[33mcommit 26e1809926e28e8da09fe533dd078146aa0052c1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:22:51 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:22:51 2025 +0530
+
+    Leap Year Checker
+
+[33mcommit 3a329df50b974fad61c4e1744521991ab84d815b[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:22:02 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:22:02 2025 +0530
+
+    FizzBuzz Lite
+
+[33mcommit 8a5f2ddddb6beeae3d9b6660105c60c024ee56b1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:20:35 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:20:35 2025 +0530
+
+    JavaScript code using a loop with if-else to print whether numbers from 1 to 20 are even or odd
+
+[33mcommit 60089a9c1c0cb68bc952ad32afd2f9f9d2745778[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:18:59 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:18:59 2025 +0530
+
+    Patern 1 to 5
+
+[33mcommit 60c1284eed1e0772ba3d3d545de5f7d125d18eb1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 23 23:16:25 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 23 23:16:25 2025 +0530
+
+    all numbers multiples of 3 from 1 to 100
+
+[33mcommit ea850799c29f6f16930cf02d50108517f55d916b[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 17 22:41:20 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 17 22:41:20 2025 +0530
+
+    all numbers multiples of 3 from 1 to 100
+
+[33mcommit 808d39f16423a5aae5f38ec39ec0035ef2b9faec[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 17 22:32:56 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 17 22:32:56 2025 +0530
+
+    OTP Generator
+
+[33mcommit 1e0a5b1b5892bd92224648dab049a268b65c097c[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Mon Apr 7 23:33:54 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Mon Apr 7 23:33:54 2025 +0530
+
+    Print the sum of numbers from 1 to 100
+
+[33mcommit 01a4e8981b9f18d868a4ad54b84f4acf3ef97c61[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Mon Apr 7 23:32:39 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Mon Apr 7 23:32:39 2025 +0530
+
+    Print all digits of a number separately
+
+[33mcommit 2b6133c481c31f1cc50d0758b00cfcf7072e70d9[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Mon Apr 7 23:31:06 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Mon Apr 7 23:31:06 2025 +0530
+
+    Find the product of digits of a number
+
+[33mcommit 88e864a6fb2fee212d8705d5394bcc09063f0403[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Mon Apr 7 23:30:24 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Mon Apr 7 23:30:24 2025 +0530
+
+    Print odd numbers from 1 to 15
+
+[33mcommit 5fc82ed5bd321318dbe144d16b06c8a74ccc84de[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 4 23:36:10 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 4 23:36:10 2025 +0530
+
+    Keep asking the user for input until they type stop
+
+[33mcommit 9c7bf0aa6a639b797055c591088df72b44564426[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 4 23:34:26 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 4 23:34:26 2025 +0530
+
+    rint the digits of a number one by one from right to left
+
+[33mcommit e5f23754291cca38e74aa06e94d70a9cdc16f3e1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 4 23:33:28 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 4 23:33:28 2025 +0530
+
+    print the multiplication table of a number
+
+[33mcommit 7a0ada3852d7194f4f619f6b7377bbfe18d93b71[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Fri Apr 4 23:31:30 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Fri Apr 4 23:31:30 2025 +0530
+
+    Least Common Multiple (LCM) of two numbers using a while loop
+
+[33mcommit 6f7333a1ad89a21bbddb5b289bba76e4d96adbab[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 3 23:41:18 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 3 23:41:18 2025 +0530
+
+    Sum of first natural number
+
+[33mcommit e38a0197d24c3debab36e524fcfe404b759afe07[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 3 23:36:11 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 3 23:36:11 2025 +0530
+
+    Check if a Year is a Century Year (100, 200, 300... etc.)
+
+[33mcommit 9376d39439cc85ccbcd21a82e37c625699780135[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 3 23:32:05 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 3 23:32:05 2025 +0530
+
+    sum of digits of a given number using a while loop
+
+[33mcommit 4a98fb0515509640a52bd1dd80c778101fca9eac[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 3 23:30:17 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 3 23:30:17 2025 +0530
+
+    greatest common divisor (GCD) of two numbers using a while loop
+
+[33mcommit 540f80693af416fdd3bc8e6ede507a0bfeffd6c1[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 3 23:04:40 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 3 23:04:40 2025 +0530
+
+    sum of digits of a given number using a while loop
+
+[33mcommit 40cccf70f659ca26e0f02b71e76be63b8db5c618[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Apr 3 22:49:55 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Apr 3 22:49:55 2025 +0530
+
+    Reverse a given number using a while loop
+
+[33mcommit a790b2afdac14c84d62b0ec5d77ed6c0bb93df08[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Apr 2 19:49:02 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Apr 2 19:49:02 2025 +0530
+
+    Sum of first natural number
+
+[33mcommit 029f3a7bf3d37aac87c5e27446829105510d1c93[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue Apr 1 22:55:55 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue Apr 1 22:55:55 2025 +0530
+
+    Even Numbers from 2 to 20 using While Loop
+
+[33mcommit 82879b345d48c2b0070939d9ae2a7882fe5ad440[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue Apr 1 22:51:48 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue Apr 1 22:51:48 2025 +0530
+
+    1 to 10 Using While Loop
+
+[33mcommit 82cac9c29a5e45881efa1c8c8adcc1c85974b341[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Sat Mar 29 23:12:46 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Sat Mar 29 23:12:46 2025 +0530
+
+    Password Strength Checker
+
+[33mcommit b90764337ee6e76c171ed7b765c4e85abdaf4549[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Sat Mar 29 23:09:39 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Sat Mar 29 23:09:39 2025 +0530
+
+    Divisible by 3 and 5 or not
+
+[33mcommit 80878a606ecb0995a0d1632aacbe01f6f551e9b0[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Mar 27 23:49:47 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Mar 27 23:49:47 2025 +0530
+
+     Check if a Year is a Century Year (100, 200, 300... etc.)
+
+[33mcommit d96118f852b39c88ed422a0fa5c768760324ce92[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Mar 27 23:47:21 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Mar 27 23:47:21 2025 +0530
+
+    Number is Divisible by 2, 3, or Both
+
+[33mcommit 37ffd65954bc6ee081d883715f710cc4cca08063[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Mar 27 23:44:58 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Mar 27 23:44:58 2025 +0530
+
+    Number is Divisible by 2, 3, or Both
+
+[33mcommit 3d98c0ed29ec6e1cacbe1e674c1fe0aeb6590509[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Mar 27 23:43:21 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Mar 27 23:43:21 2025 +0530
+
+    Character is a Vowel or Consonant
+
+[33mcommit feab353e49d8179024cae86d3cb41b5318d505b9[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Thu Mar 27 23:41:11 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Thu Mar 27 23:41:11 2025 +0530
+
+    Smallest of two numbers
+
+[33mcommit 2d5a63cd7e25383a20108739fbc4e4cf2a7a2ff9[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 23:19:47 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 23:19:47 2025 +0530
+
+    Largest of Two Numbers
+
+[33mcommit ac68dc49c767826996e8c5f554e461e7d0a21b9d[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 15:47:37 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 15:47:37 2025 +0530
+
+    Number is Positive, Negative, or Zero
+
+[33mcommit 1804d875582e5f82bb1a6f25271cae1d331a6383[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 15:41:22 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 15:41:22 2025 +0530
+
+    Even or Odd
+
+[33mcommit c4d7c96cc47a0e4e527a16fbeda6d237c9cab396[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 15:39:10 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 15:39:10 2025 +0530
+
+    Eligible Voter
+
+[33mcommit e9691f68c8ce61358d06aaa31084f1a64dd3dacc[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 15:37:08 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 15:37:08 2025 +0530
+
+    Even or Odd
+
+[33mcommit ccdce256c68148f9b6d4fe73b1bcf1bccdaf5a0c[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 05:15:17 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 05:15:17 2025 +0530
+
+    Was checking
+
+[33mcommit 64b19139a00aaef5cffe40a25334299f70960d48[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 01:53:28 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 01:53:28 2025 +0530
+
+    Final Comparison Practice Sheet
+
+[33mcommit df4afbcde4efb80cfd7290d754dc1a3439901fd8[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 01:34:37 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 01:34:37 2025 +0530
+
+    Added Comparison Practice Files
+
+[33mcommit 8f748f087dd574b5aef0a3c2d6d3159040522c27[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 01:29:07 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 01:29:07 2025 +0530
+
+    Added Operators Practice File
+
+[33mcommit b75d6977f1b08e8c1c230b89c56b9fbe020c678e[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Wed Mar 26 01:23:27 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Wed Mar 26 01:23:27 2025 +0530
+
+    Variables Practice  File Added
+
+[33mcommit a20405812ffdefbaf9261cf6ae176701dcff3143[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue Mar 25 01:25:30 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue Mar 25 01:25:30 2025 +0530
+
+    Added sixth file
+
+[33mcommit ba8335f89a2d9adbeb9dd7fd27283a626e8c7a9d[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue Mar 25 01:13:27 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue Mar 25 01:21:32 2025 +0530
+
+    Add fifth.js file
+
+[33mcommit 5182448dd050188a8cbe7acbd6b47c36c052c7b5[m
+Author:     Abhinash Gupta <97685347+Abhinash01@users.noreply.github.com>
+AuthorDate: Tue Mar 25 00:59:33 2025 +0530
+Commit:     GitHub <noreply@github.com>
+CommitDate: Tue Mar 25 00:59:33 2025 +0530
+
+    Add files via upload
+
+[33mcommit c1ffacfa8b31e12bbc3b04551b8aa812fa427378[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue Mar 25 00:21:33 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue Mar 25 00:21:33 2025 +0530
+
+    Changed number in first.js
+
+[33mcommit 7682f1494f10c13ef307882b23040871a69439ef[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue Mar 25 00:20:45 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue Mar 25 00:20:45 2025 +0530
+
+    Creted third.js
+
+[33mcommit ea6d9a7eaf7df6a0eef5117bb822e9017d2310d7[m
+Author:     Abhinash01 <abinashgupa111@gmail.com>
+AuthorDate: Tue Mar 25 00:13:10 2025 +0530
+Commit:     Abhinash01 <abinashgupa111@gmail.com>
+CommitDate: Tue Mar 25 00:13:10 2025 +0530
+
+    Added content in second.js
